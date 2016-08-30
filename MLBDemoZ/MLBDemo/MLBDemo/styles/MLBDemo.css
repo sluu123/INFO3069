@@ -1,0 +1,17 @@
+﻿body 
+{
+    background-color: #BFC9DC;
+}
+
+table
+{
+    border-spacing: 0px;
+}
+
+td
+{
+    border:1px solid #002594;
+    position:relative; 
+    width:50%; 
+    background-color: lightblue;
+}
